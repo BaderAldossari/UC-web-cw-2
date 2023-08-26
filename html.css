@@ -1,0 +1,19 @@
+div
+{
+    background:#DDD;
+    padding:10px;
+    margin:10px;
+
+    border:1px solid #F00
+}
+
+.card {
+    width: 500px;
+    background-color: blue;
+    text-align: center;
+}
+
+#dish-name {
+
+    color: azure;
+}
